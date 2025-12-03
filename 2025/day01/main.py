@@ -1,4 +1,4 @@
-with open("input.txt", "r") as file:
+with open("input", "r") as file:
     content = file.readlines()
 
 def day01():
